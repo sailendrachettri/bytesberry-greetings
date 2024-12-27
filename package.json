@@ -1,0 +1,15 @@
+{
+  "name": "@bytesberry/greetings",
+  "description": "A lightweight utility to get dynamic greeting messages based on the current time.",
+  "type": "module",
+  "version": "1.2.4",
+  "author": "sailendrachettri <sailendra9083@gmail.com>",
+  "repository": " https://github.com/sailendrachettri/bytesberry-greetings.git",
+  "main": "index.js",
+  "keywords": [
+    "Greet",
+    "Greetings",
+    "Greet user"
+  ],
+  "license": "ISC"
+}
